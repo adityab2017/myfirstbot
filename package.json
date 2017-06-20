@@ -1,0 +1,24 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityab2017/myfirstbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityab2017/myfirstbot/issues"
+  },
+  "homepage": "https://github.com/adityab2017/myfirstbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "request-promise": "^4.2.1",
+    "restify": "^4.3.0"
+  }
+}
